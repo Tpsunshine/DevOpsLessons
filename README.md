@@ -1,2 +1,0 @@
-# DevOpsLessons
-DevOps Lessons
